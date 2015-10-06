@@ -1,6 +1,6 @@
 {
     "name": "Piedalu/bubbletree",
-    "type": "library",
+    "type": "package",
     "description": "Fork from okfn/bubbletree.",
     "license": "MIT",
     "authors": [

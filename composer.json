@@ -1,0 +1,26 @@
+{
+    "name": "Piedalu/bubbletree",
+    "type": "library",
+    "description": "Fork from okfn/bubbletree.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Élie Deilhes"
+        }
+    ],
+    "require":
+    {
+        "robloach/component-installer": "*"
+    },
+    "extra":
+    {
+        "component":
+        {
+            "files":
+            [
+                "build/*",
+                "lib/*"
+            ]
+        }
+    }
+}
